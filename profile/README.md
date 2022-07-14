@@ -1,4 +1,4 @@
-![Company-Logo](m-pr_logo_neu_280x100_01.png)
+![Company-Logo](/m-pr_logo_neu_280x100_01.png)
 
 # Wir entwickeln innovative Lösungen und unsere Kunden profitieren von unserem Know How.
 
