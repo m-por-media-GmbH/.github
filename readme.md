@@ -1,10 +1,12 @@
 # m-por media GmbH
 
 # Faktura-XP Warenwirtschaft
-https://www.faktura-xp.de
+Webseite : https://www.faktura-xp.de
+Handbuch : https://handbuch.faktura-xp.de
 
 # Faktura.Cash Kassensoftware
-https://www.faktura-cash.de
+Webseite : https://www.faktura-cash.de
+Handbuch : https://handbuch.faktura-cash.de
 
 
 # Supportanfragen
