@@ -13,7 +13,7 @@ Handbuch : https://handbuch.faktura-cash.de
 
 # Supportanfragen
 
-mailto:support@faktura-xp.de
+support@faktura-xp.de
 
 # Kontakt
 
