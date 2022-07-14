@@ -3,6 +3,7 @@
 # Wir entwickeln innovative Lösungen und unsere Kunden profitieren von unserem Know How.
 
 # Faktura-XP Warenwirtschaft
+![Faktura-XP Logo](FXP_Logo5_230x76.png)
 Webseite : https://www.faktura-xp.de
 
 Handbuch : https://handbuch.faktura-xp.de
