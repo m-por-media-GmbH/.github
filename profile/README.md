@@ -1,4 +1,4 @@
-[Company-Logo](https://www.m-por.de/wp-content/uploads/2018/05/m-pr_logo_neu_280x100_01.png)
+[Company-Logo](www.m-por.de/wp-content/uploads/2018/05/m-pr_logo_neu_280x100_01.png)
 
 # Wir entwickeln innovative Lösungen und unsere Kunden profitieren von unserem Know How.
 
