@@ -10,6 +10,8 @@ Webseite : https://www.faktura-xp.de
 Handbuch : https://handbuch.faktura-xp.de
 
 # Faktura.Cash Kassensoftware
+![Faktura.Cash ausgeführt auf einem Acer Tablet](Cash_auf_Tablet_Acer_75.png)
+
 Webseite : https://www.faktura-cash.de
 
 Handbuch : https://handbuch.faktura-cash.de
