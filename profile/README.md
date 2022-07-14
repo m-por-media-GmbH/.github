@@ -2,10 +2,12 @@
 
 # Faktura-XP Warenwirtschaft
 Webseite : https://www.faktura-xp.de
+
 Handbuch : https://handbuch.faktura-xp.de
 
 # Faktura.Cash Kassensoftware
 Webseite : https://www.faktura-cash.de
+
 Handbuch : https://handbuch.faktura-cash.de
 
 
