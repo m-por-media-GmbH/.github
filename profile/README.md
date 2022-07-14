@@ -1,4 +1,4 @@
-#Wir entwickeln innovative Lösungen und unsere Kunden profitieren von unserem Know How.
+# Wir entwickeln innovative Lösungen und unsere Kunden profitieren von unserem Know How.
 
 # Faktura-XP Warenwirtschaft
 Webseite : https://www.faktura-xp.de
