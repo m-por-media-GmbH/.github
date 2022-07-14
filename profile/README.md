@@ -1,12 +1,28 @@
-## Hi there 👋
+# m-por media GmbH
 
-<!--
+Wir entwickeln innovative Lösungen und unsere Kunden profitieren von unserem Know How.
 
-**Here are some ideas to get you started:**
+# Faktura-XP Warenwirtschaft
+Webseite : https://www.faktura-xp.de
+Handbuch : https://handbuch.faktura-xp.de
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Faktura.Cash Kassensoftware
+Webseite : https://www.faktura-cash.de
+Handbuch : https://handbuch.faktura-cash.de
+
+
+# Supportanfragen
+
+mailto:support@faktura-xp.de
+
+# Kontakt
+
+https://www.faktura-xp.de/kontakt/
+
+# Impressum
+
+https://www.faktura-xp.de/impressum/
+
+# Datenschutzerklärung
+
+https://www.faktura-xp.de/datenschutzerklaerung/
